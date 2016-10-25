@@ -1,0 +1,85 @@
+<env:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:upss="http://www.ups.com/XMLSchema/XOLTWS/UPSS/v1.0" xmlns:wsf="http://www.ups.com/schema/wsf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:common="http://www.ups.com/XMLSchema/XOLTWS/Common/v1.0">
+	<env:Header>
+		<upss:Security>
+			<upss:UsernameToken>
+				<upss:Username>deanchou</upss:Username>
+				<upss:Password>Anderson9729266488</upss:Password>
+			</upss:UsernameToken>
+			<upss:UPSServiceAccessToken>
+				<upss:AccessLicenseNumber>5D16906D343745DE</upss:AccessLicenseNumber>
+			</upss:UPSServiceAccessToken>
+		</upss:Security>
+	</env:Header>
+	<env:Body>
+		<rate:RateRequest xmlns:rate="http://www.ups.com/XMLSchema/XOLTWS/Rate/v1.1" xmlns:common="http://www.ups.com/XMLSchema/XOLTWS/Common/v1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<common:Request>
+				<common:RequestOption>Rate</common:RequestOption>
+				<common:TransactionReference>
+					<common:CustomerContext>Your Customer Context</common:CustomerContext>
+				</common:TransactionReference>
+			</common:Request>
+			<rate:Shipment>
+				<rate:Shipper>
+					<rate:Name>AYC Group, LLC</rate:Name>
+					<rate:ShipperNumber>2Y263A</rate:ShipperNumber>
+					<rate:Address>
+						<rate:AddressLine>4009 Distribution Dr</rate:AddressLine>
+						<rate:AddressLine>STE# 225</rate:AddressLine>
+
+						<rate:City>Garland</rate:City>
+						<rate:StateProvinceCode>TX</rate:StateProvinceCode>
+						<rate:PostalCode>75041</rate:PostalCode>
+						<rate:CountryCode>US</rate:CountryCode>
+					</rate:Address>
+				</rate:Shipper>
+				<rate:ShipTo>
+					<rate:Name>GOODYEAR</rate:Name>
+					<rate:Address>
+						<rate:AddressLine>525 N Estrella Pkwy Ste 104</rate:AddressLine>
+
+						<rate:City>AZ</rate:City>
+						<rate:StateProvinceCode>AZ</rate:StateProvinceCode>
+						<rate:PostalCode>85338-9278</rate:PostalCode>
+						<rate:CountryCode>US</rate:CountryCode>
+					</rate:Address>
+				</rate:ShipTo>
+				<rate:ShipFrom>
+					<rate:Name>AYC Group, LLC</rate:Name>
+					<rate:Address>
+						<rate:AddressLine>4009 Distribution Dr</rate:AddressLine>
+						<rate:AddressLine>STE# 225</rate:AddressLine>
+						<rate:City>Garland</rate:City>
+						<rate:StateProvinceCode>TX</rate:StateProvinceCode>
+						<rate:PostalCode>75041</rate:PostalCode>
+						<rate:CountryCode>US</rate:CountryCode>
+					</rate:Address>
+				</rate:ShipFrom>
+				<rate:Service>
+					<rate:Code>03</rate:Code>
+					<rate:Description>UPS GROUND</rate:Description>
+				</rate:Service>
+				<rate:NumOfPieces>1</rate:NumOfPieces>
+				<rate:ItemizedChargesRequestedIndicator>0</rate:ItemizedChargesRequestedIndicator>
+				<rate:Package>
+					<rate:PackagingType>
+						<rate:Code>02</rate:Code>
+					</rate:PackagingType>
+					<rate:Dimensions>
+						<rate:UnitOfMeasurement>
+							<rate:Code>IN</rate:Code>
+						</rate:UnitOfMeasurement>
+						<rate:Length>13</rate:Length>
+						<rate:Width>19</rate:Width>
+						<rate:Height>19</rate:Height>
+					</rate:Dimensions>
+					<rate:PackageWeight>
+						<rate:UnitOfMeasurement>
+							<rate:Code>LBS</rate:Code>
+						</rate:UnitOfMeasurement>
+						<rate:Weight>18</rate:Weight>
+					</rate:PackageWeight>
+				</rate:Package>
+			</rate:Shipment>
+		</rate:RateRequest>
+	</env:Body>
+</env:Envelope>

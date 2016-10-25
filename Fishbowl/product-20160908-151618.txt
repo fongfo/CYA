@@ -1,0 +1,598 @@
+NUM,DESCRIPTION,HEIGHT,LEN,WIDTH,WEIGHT,PRICE
+123Dummy Part321,,0.0,0.0,0.0,0.0,0.0
+ALF-NTBL-200-A-DRK - Void,Manicure Table - IMC Vented,0.0,0.0,0.0,125.0,375.0
+AYC-SPA-VIGGO,VIGGO Pedicure Tub,0.0,0.0,0.0,90.0,550.0
+ALF-NTBL-200-A-WH - Void,Manicure Table - IMC Vented,0.0,0.0,0.0,125.0,375.0
+ALF-NTBL-200-B-DRK - Void,Manicure Table - IMC Vented Marble Top,0.0,0.0,0.0,30.0,100.0
+ALF-NTBL-200-B-WH - Void,Manicure Table - IMC Vented Marble Top,0.0,0.0,0.0,30.0,100.0
+00-ALI-CTRLB-001,Control Box - 1 Outlet UL with 2min Timer,1.75,4.25,3.0,0.5,28.0
+00-ALI-CTRLB-007,Control Box - 3 Air and 1 Continuous Outlets UL,3.0,12.0,7.5,2.0,28.0
+HAI-CUCHR-11803-BG,AVION Customer Chair (Burgundy),25.0,16.0,32.5,37.0,95.0
+HAI-CUCHR-11803-BLK,AVION Customer Chair (Black),25.0,16.0,32.5,37.0,95.0
+HAI-CUCHR-11803-CPO,AVION Customer Chair (Cappuccino),25.0,16.0,32.5,37.0,95.0
+HAI-PDSTL-001-BLK,TERRELL Pedicure Stool (Black),20.5,5.5,21.0,22.0,25.0
+HAI-PDSTL-001-WH,TERRELL Pedicure Stool (White),20.5,5.5,21.0,22.0,25.0
+HAI-PDSTL-10312-BG,DAYTON Pedicure Stool (Burgundy),18.5,18.5,10.5,19.0,35.0
+HAI-PDSTL-10312-CFE,DAYTON Pedicure Stool (Coffee),18.5,18.5,10.5,19.0,35.0
+HAI-PDSTL-10312-CPO,DAYTON Pedicure Stool (Cappuccino),18.5,18.5,10.5,19.0,35.0
+HAI-PDSTL-10312-RD,DAYTON Pedicure Stool (Red),18.5,18.5,10.5,19.0,35.0
+HAI-PDSTL-10412-BG,TOTO Pedicure Stool (Burgundy),21.0,26.0,12.0,15.0,45.0
+HAI-PDSTL-10412-BLK - Inactive,TOTO Pedicure Stool (Black),21.0,26.0,12.0,15.0,45.0
+HAI-PDSTL-10412-CPO - Inactive,TOTO Pedicure Stool (Cappuccino),21.0,26.0,12.0,15.0,45.0
+HAI-PDSTL-10412-RD,TOTO Pedicure Stool (Red),21.0,26.0,12.0,15.0,45.0
+HAI-PDSTL-10511-BG,HARMONY Pedicure Stool (Burgundy),11.0,22.0,21.0,15.0,52.0
+HAI-PDSTL-10511-BLK,HARMONY Pedicure Stool (Black),10.5,22.0,21.0,15.0,52.0
+HAI-PDSTL-10511-CPO,HARMONY Pedicure Stool (Cappuccino),11.0,22.0,21.0,15.0,52.0
+HAI-PDSTL-10511-RD,HARMONY Pedicure Stool (Red),11.0,22.0,21.0,15.0,52.0
+MIN-CUCHR-IS-GY,Isobella Customer Chair (Gray),20.0,27.0,27.0,50.0,233.33
+HAI-PDSTL-10612-BG,UMI Pedicure Stool (Burgundy),19.0,21.0,13.0,16.0,40.0
+KAM-NTBL-092-A-BLK,Fiona Nail Table Top Black,10.875,46.625,20.0,43.0,90.95
+HAI-PDSTL-10612-BLK,UMI Pedicure Stool (Black),19.0,21.0,13.0,16.0,40.0
+HAI-CUCHR-11801-BLK,BIRCH Customer Chair (Black),25.0,27.0,15.0,40.0,149.0
+HAI-CUCHR-11801-CPO,BIRCH Customer Chair (Cappuccino),25.0,27.0,15.0,40.0,149.0
+HAI-PDSTL-10612-CPO,UMI Pedicure Stool (Cappuccino),19.0,21.0,13.0,16.0,40.0
+HAI-PDSTL-10612-RD,UMI Pedicure Stool (Red),19.0,21.0,13.0,16.0,40.0
+00-DON-PMP-5679,Styling Chair Pump,9.5,17.5,11.0,28.0,60.0
+HAI-TCSTL-104-BLK - Void,TOTO Technician Stool (Black),18.0,25.5,11.0,15.0,50.0
+00-KAN-TCHRARM-906,906D Armrest with Tray,9.0,28.0,15.0,25.0,95.0
+HAI-TCSTL-637-BG,ALICE Technician Stool (Burgundy),11.0,21.0,21.0,18.0,48.0
+HAI-TCSTL-637-BLK,ALICE Technician Stool (Black),11.0,21.0,21.0,18.0,48.0
+HAI-TCSTL-637-CPO,ALICE Technician Stool (Cappuccino),11.0,21.0,21.0,18.0,48.0
+HAI-TCSTL-666-BLK,KIPP Technician Stool (Black),22.0,23.0,11.5,22.0,54.0
+BJI-KPCH-9285,KEEN Sterilization Pouches,13.0,15.5,11.5,27.0,80.0
+00-BAL-FIT-436102,Fitting - Reducing Male Adapter,2.0,1.75,1.75,1.0,3.1
+HAI-CUCHR-11801-BG,BIRCH Customer Chair (Burgundy),25.0,27.0,15.0,40.0,149.0
+00-KAN-RMT-700,SHIATSULOGIC CX Vibration Massage Chair - Remote Controller,1.0,12.5,3.5,1.0,55.0
+00-BAL-FIT-20206,Fitting - Micro Jet Fitting,1.75,1.75,1.75,1.0,3.5
+00-BAL-FIT-20214,Fitting - Macro Wall Fitting,0.75,1.5,1.5,1.0,3.1
+00-BAL-FIT-409005,Fitting - Elbow Connector,1.25,2.0,1.5,1.0,1.95
+00-BAL-FIT-435005,Fitting - Female Adapter,1.5,1.25,1.25,1.0,2.95
+BAO-TUB-012-BLK,VIGGO Pedicure Tub - Raw Base (Black),18.0,52.0,26.0,70.0,395.0
+BAO-TUB-012-WH,VIGGO Pedicure Tub - Raw Base (White),18.0,52.0,26.0,70.0,395.0
+HAI-TCSTL-10412-CPO,TOTO Technician Stool (Cappuccino),21.0,26.0,12.0,15.0,55.0
+DON-NTBL-2714-MPL,TAYLOR Foldable Manicure Table (Maple),32.0,23.0,23.0,80.0,172.0
+BAO-TUB-025-BLKCSND - Void,SERENITY Pedicure Tub - Raw Base (Black - Coastal Sand),18.5,53.0,26.5,80.0,395.0
+BAO-TUB-025-MSNDCSND,SERENITY Pedicure Tub - Raw Base (Moroccan Sand - Coastal Sand),18.5,53.0,26.5,76.0,425.0
+BAO-TUB-0271-CSNDMSND,LOTUS Pedicure Tub - Raw Base (Coastal Sand - Moroccan Sand),21.0,56.0,26.5,77.0,450.0
+BAO-TUB-0271-CSNDSPC,LOTUS Pedicure Tub - Raw Base (Coastal Sand - SPACY-Org Glass bowl),21.0,56.0,26.5,77.0,450.0
+JAT-NRTBL-911,AVON I Reception Table - Q,44.0,57.5,28.0,400.0,750.0
+BAO-TUB-0271-CSNDRBY - Void,LOTUS Pedicure Tub - Raw Base (Coastal Sand - Ruby Pearl),21.0,56.0,26.5,75.0,425.0
+BAO-TUB-028-CINNUT,FEDORA Pedicure Tub - Completely Built Base (Spicy Cinnamon - Hazelnut) Resin bowl,21.0,56.0,26.5,90.0,525.0
+00-HON-BS-66,Styling Chair Base,1.0,22.5,22.5,16.0,42.0
+BAO-TUB-029-BLKBG,ALESSI Pedicure Tub - Raw Base (Black - Burgundy),26.0,55.0,20.0,85.0,525.0
+BAO-TUB-029-CINCSND,ALESSI Pedicure Tub - Raw Base (Spicy Cinnamon - Coastal Sand),26.0,55.0,20.0,85.0,525.0
+BAO-TUB-029-CSNDCIN,ALESSI Pedicure Tub - Raw Base (Coastal Sand - Spicy Cinnamon),26.0,55.0,20.0,85.0,525.0
+BAO-TUB-030-BR,ARROJO Pedicure Tub - Raw Base (Brown),26.0,55.0,20.0,85.0,450.0
+BAO-TUB-031-CSNDCIN,FIOR Pedicure Tub - Raw Base (Coastal Sand - Spicy Cinnamon),20.5,55.0,28.0,85.0,525.0
+BAO-TUB-032-CSNDCIN,LENOIR Pedicure Tub - Raw Base (Coastal Sand - Spicy Cinnamon),26.0,55.0,20.0,85.0,525.0
+00-CON-NTBL-AMRST-BG,Manicure Table Armrest (Burgundy),2.0,17.0,3.0,1.0,7.5
+00-CON-NTBL-AMRST-BLK,Manicure Table Armrest (Black),2.0,17.0,3.0,1.0,7.5
+00-CON-NTBL-AMRST-CPO,Manicure Table Armrest (Cappuccino),1.25,16.5,3.0,1.0,7.5
+CON-NCRT-241,ALERA Pedicart Stool,15.0,24.0,15.0,40.0,78.0
+00-HON-BS-12,Styling Chair Base,0.0,0.0,0.0,15.5,28.0
+CON-NCRT-341,SEDONA Pedicart Stool,15.0,24.0,15.0,40.0,78.0
+CON-NCRT-641,BERKELEY Pedicart Stool,15.0,24.0,15.0,40.0,78.0
+CON-NDRY-221,ALERA Nail Dryer Table,40.0,50.0,17.0,112.0,450.0
+CON-NDRY-321,SEDONA Nail Dryer Table,40.0,50.0,17.0,113.0,450.0
+CON-NDRY-621,BERKELEY Nail Dryer Table,40.0,50.0,17.0,113.0,450.0
+CON-NPORK-2501,ALERA Nail Polish Rack,4.0,29.0,26.0,12.0,36.0
+CON-NPORK-3501,SEDONA Nail Polish Rack,4.0,29.0,26.0,12.0,36.0
+CON-NPORK-6501,BERKELEY Nail Polish Rack,4.0,29.0,26.0,12.0,36.0
+CON-NRTBL-212,ALERA Reception Table with Display - Center Piece,47.0,46.0,19.0,125.0,495.0
+CON-NRTBL-212-A,ALERA Reception Table - Side Cabinet,45.0,17.0,13.0,45.0,95.0
+CON-NRTBL-312,SEDONA Reception Table with Display - Center Piece,47.0,46.0,19.0,125.0,495.0
+CON-NRTBL-312-A,SEDONA Reception Table - Side Cabinet,45.0,17.0,14.0,45.0,95.0
+CON-NRTBL-611,BERKELEY Reception Table - Center Piece,40.0,50.0,17.0,135.0,495.0
+CON-NRTBL-612,BERKELEY Reception Table with Display - Center Piece,47.0,46.0,19.0,125.0,495.0
+CON-NRTBL-612-A,BERKELEY Reception Table - Side Cabinet,45.0,17.0,14.0,45.0,95.0
+CON-NTBL-111-A,BERKELEY Manicure Table - Middle Section,9.0,23.0,18.0,22.0,60.0
+CON-NTBL-111-B,BERKELEY Manicure Table - Sides,31.0,24.0,18.0,66.0,128.0
+CON-NTBL-111-C-VA,BERKELEY Manicure Table - Full Marble (Vanilla),1.5,21.0,44.0,40.0,88.0
+CON-NTBL-200-A,ALERA Manicure Table - Middle Section,9.0,23.0,18.0,22.0,60.0
+CON-NTBL-200-B,ALERA Manicure Table - Sides,31.0,24.0,18.0,66.0,128.0
+CON-NTBL-300-A,SEDONA Manicure Table - Middle Section,9.0,23.0,18.0,22.0,60.0
+00-HON-BS-77,Styling Chair Base,0.0,0.0,0.0,18.0,42.0
+CON-NTBL-300-B,SEDONA Manicure Table - Sides,31.0,24.0,18.0,66.0,128.0
+ALA-DRY-421,HIGHLAND Hair Dryer LIBERTY- 1500,15.0,34.0,17.0,27.0,200.0
+CON-NTBL-300-C-RS,SEDONA Manicure Table - Full Marble (Rose),3.0,20.0,40.0,40.0,88.0
+CON-NTRLY-222,ALERA Pedi Trolley,19.0,15.0,16.0,30.0,69.0
+CON-NTRLY-333,SEDONA Pedi Trolley,19.0,15.0,16.0,30.0,69.0
+CON-NTRLY-633,BERKELEY Pedi Trolley,19.0,15.0,16.0,30.0,69.0
+CON-SYSTA-222-BLK,MARKISON Wall Mount Styling Station (Black),11.0,38.0,18.0,38.0,78.0
+00-TAN-DRNAS-01,Shampoo Bowl - Plastic Drain Assembly,5.0,12.0,12.0,1.0,4.95
+00-TAN-FIT-007,Fitting - I Connector,2.0,1.5,1.5,1.0,4.5
+00-TAN-HS-009,Pedicure Spa Plumbing - Sprayer Head Hose,5.0,12.0,12.0,1.0,6.0
+00-TAN-SPYHD-006,Pedicure Spa Plumbing - Sprayer Head,5.0,12.0,12.0,1.0,5.0
+00-TAN-SPYHD-009,Pedicure Spa Plumbing - Sprayer Head,5.0,12.0,12.0,1.0,7.95
+00-XIE-ADPTR-02,LED Adapter,2.25,3.0,1.75,1.0,10.0
+00-XIE-CTRL-003,Control - Air Button,2.5,1.75,1.75,1.0,3.75
+00-XIE-CTRLB-007 - Inactive,Control Box - 3 Air and 1 Continuous Outlets with Timer,2.5,5.125,4.375,2.0,18.0
+00-XIE-CVR-02,LED Cover,3.5,3.375,3.375,1.0,10.0
+00-XIE-LGHT-02,LED Light,1.75,2.0,2.0,1.0,15.0
+00-XIE-PVC-63015 - Void,PVC Pipe for Air Control Button,4.5,39.0,20.0,109.0,1.0
+DON-APCHR-0310 - Inactive,KENSLEY All Purpose Styling Chair,27.5,27.0,26.0,105.0,272.0
+DON-APCHR-22201 - Void,COLLINS All Purpose Chair,26.0,24.5,25.0,78.5,245.0
+DON-APCHR-39918,MILLER All Purpose Chair,24.0,27.5,23.5,78.0,188.0
+DON-BBCHR-22902-BLK,BUCHANAN Barber Chair (Black),41.0,33.0,31.0,165.0,402.0
+DON-BBCHR-31905-BLK,LINCOLN Barber Chair (Black),42.5,30.5,33.5,220.0,495.0
+DON-BWSH-2806,SOUTHLAKE Backwash Unit Shampoo Chair,28.625,46.75,27.125,88.0,300.0
+YAL-BBCHR-31906,KENNEDY Barber Chair,32.0,31.0,29.0,130.0,529.0
+DON-BWSH-2811,CONTI Backwash - Shampoo Bed,30.75,48.25,28.75,80.0,300.0
+DON-BWSH-2822,ESTELLE Backwash - Shampoo Bed,30.75,48.25,28.75,85.0,300.0
+DON-BWSH-32802,BEDFORD Backwash Shampoo Unit,34.25,60.0,27.125,180.0,375.0
+DON-CUSHR-2779-BLK,OTT Waiting Chair (Black),9.0,27.5,19.0,22.5,50.0
+DON-DYCHR-2431,EDISON Hair Dryer Chair,17.5,33.0,21.0,54.5,92.0
+DON-DYCHR-24331005-A,ESTELLE Hair Dryer Chair Top Seat,22.0,26.0,26.0,37.0,182.0
+DON-DYCHR-24332811-A,CONTI Hair Dryer Chair Top Seat,20.0,28.0,25.0,41.0,154.0
+DON-FCAAP-201,FORNEY Facial steamer,14.0,36.5,14.0,26.5,145.0
+DON-FCAAP-206,COPPELL Magnifying Lamp,6.5,33.0,19.0,10.0,65.0
+HAI-CUCHR-11801-CFE,BIRCH Customer Chair (Coffee),25.0,27.0,15.0,40.0,149.0
+DON-FCAAP-214,IRVING 8-Function Facial Machine,20.0,39.5,25.5,84.0,589.0
+DON-FCAPP-1000,PLANO Facial Steamer,13.0,35.5,18.5,21.0,110.0
+DON-FCAPP-205,COPPELL Magnifying Lamp,33.5,19.0,6.5,22.0,65.0
+HAI-TCSTL-10412-BLK,TOTO Technician Stool (Black),21.0,26.0,12.0,15.0,55.0
+DON-FCAPP-3019,SONA Skin Scanner,18.0,24.0,18.0,22.0,192.0
+DON-FCCHR-215001-BLK,PARKER Facial Bed with stool (Black),27.0,45.0,15.0,100.0,162.0
+DON-FCCHR-215001-WH,PARKER Facial Bed with stool (White),27.0,45.0,15.0,100.0,162.0
+DON-FCCHR-3739-A-BLK,SACHSE Facial Bed - Top (Black),27.0,45.5,19.0,52.0,150.0
+DON-FCCHR-3739-A-WH,SACHSE Facial Bed - Top (White),27.0,45.5,19.0,52.0,150.0
+DON-FCCHR-3739-B-BLK,SACHSE Facial Bed - Base (Black),17.5,40.0,27.0,54.0,250.0
+DON-FCCHR-3739-B-WH,SACHSE Facial Bed - Base (White),17.5,40.0,27.0,54.0,250.0
+DON-DRY-0100-A,IRIS Wall mount hair dryer - Arm,7.0,40.0,11.0,19.0,100.0
+DON-DRY-0100-B,IRIS Wall mount hair dryer - Body,17.0,23.0,16.0,17.0,200.0
+DON-DRY-3501,FUTURA Roller Ball Standing Hair Dryer,17.0,33.0,23.0,37.0,442.0
+DON-MGTBL-212,SANGER Massage Bed,7.0,72.5,26.0,70.5,145.0
+DON-NDRY-501,ADELE Nail & Foot Dryer,12.5,15.75,10.5,13.0,55.0
+DON-NTBL-2714-BLK,TAYLOR Foldable Manicure Table (Black),32.0,23.0,23.0,80.0,172.0
+DON-NTBL-8271,ESME Collapsable Nail Table,9.0,45.0,22.0,31.0,78.0
+DON-PDSTL-001-BLK - Void,TERRELL Facial Stool (Black),20.0,19.5,8.0,11.5,25.0
+DON-PDSTL-001-WH - Void,TERRELL Facial Stool (White),20.0,19.5,8.0,11.5,25.0
+DON-PDSTL-9010-BLK,KELLY Esthetician Stool (Black),18.5,13.0,19.0,18.0,58.0
+DON-PDSTL-9010-WH,KELLY Esthetician Stool (White),18.5,13.0,19.0,18.0,58.0
+DON-SAAPP-209,KELLER Sterilizer,11.5,16.5,10.5,14.5,68.0
+DON-SAAPP-389,DENTON UV Sterilizer,19.0,17.0,11.0,21.5,120.0
+DON-SMPO-011,LISBON Shampoo bowl,14.0,27.0,24.0,65.0,92.0
+DON-SMPO-120,CAMDEN Shampoo Bowl,14.0,23.0,22.0,10.0,60.0
+DON-SMPO-121,CAROL Shampoo Bowl,11.0,22.5,22.0,10.0,60.0
+KIN-SMPO-134,SHELBY Shampoo Bowl - Portable,10.5,21.5,21.5,9.5,30.0
+00-DON-SMPO-2806-BLK,SOUTHLAKE - CONTI - ESTELLE Backwash Units Shampoo Bowl (Black),13.5,24.625,22.5,45.0,139.0
+00-DON-SMPO-2806-WH,SOUTHLAKE - CONTI - ESTELLE Backwash Units Shampoo Bowl (White),13.5,24.625,22.5,45.0,139.0
+DON-SPCHR-22022-BLK,FERRIS Shampoo Chair (Black),13.75,36.25,24.5,51.0,120.0
+DON-SPCHR-22023-BLK,AZLE Shampoo Chair (Black),8.0,24.0,41.5,34.5,65.0
+DON-SPCHR-22025-BLK,COLEMAN Shampoo Chair (Black),13.5,28.0,24.0,42.5,92.0
+DON-SYCHR-0310,KENSLEY Styling Chair,0.0,27.0,27.5,95.0,240.0
+DON-SYCHR-1005,ESTELLE Styling Chair,25.5,25.5,24.5,70.0,172.0
+DON-SYCHR-1015,GORDON Styling Chair,25.5,25.0,26.0,70.0,180.0
+DON-SYCHR-2026,ORIN Styling Chair,25.5,25.5,24.5,67.0,180.0
+DON-SYCHR-21018,CAMPBELL Styling Chair,26.0,25.5,25.0,72.0,185.0
+DON-SYCHR-2115,CONTI Styling Chair,26.0,25.5,25.5,71.0,172.0
+DON-SYCHR-22124,HILLCREST Styling Chair,26.0,25.0,25.0,70.0,175.0
+DON-SYCHR-3710 - Inactive,SABI Styling Chair,24.0,26.0,26.0,75.0,190.0
+DON-SYCHR-5679,COIT Styling Chair,26.0,27.0,24.5,73.0,145.0
+DON-SYCHR-8824 - Inactive,CURTIS Styling Chair,28.5,25.0,26.5,75.0,212.0
+DON-TRLY-100 - Void,DANIELLE Salon Trolley,16.0,31.5,9.0,19.0,57.0
+DON-TRLY-2703-WH,BAYLOR Beauty Trolley (White),9.0,34.0,18.0,30.0,56.0
+DON-TRLY-7552,BERWICK Trolley,38.0,18.0,20.0,70.0,132.0
+DON-TWAPP-207,LANCASTER Hot Towel Warmer,15.5,20.5,14.5,28.5,120.0
+DON-WXAPP-612,HUTCHINS Single Wax Warmer,7.0,11.5,8.5,4.0,32.0
+DON-WXAPP-632,KEANE Paraffin Wax Warmer,19.5,11.0,12.0,8.5,65.0
+DPI-NTBL-3488-A-WH,Glasglow Manicure Table - Cabinets,25.0,22.0,18.0,46.0,200.0
+DPI-NTBL-3488-B-WH,Glasglow Manicure Table - Glass Top,5.0,45.0,22.0,30.0,175.0
+DPI-NTRLY-5153-BLK,Glasglow Pedi Trolley with Pipes,26.0,18.0,18.0,45.0,95.0
+DPI-NTRLY-5153-WH,Glasglow Pedi Trolley with Pipes,26.0,18.0,18.0,45.0,95.0
+DPI-NTBL-3488-A-BLK,Glasglow Manicure Table - Cabinets,25.0,22.0,18.0,46.0,200.0
+DPI-NTBL-3488-B-BLK,Glasglow Manicure Table - Glass Top,5.0,45.0,22.0,30.0,175.0
+ENW-SBND-001,KEEN Brown Sanding band - Coarse,12.0,8.0,17.0,10.0,140.0
+HUI-BWSH-253-A,DRAPER Backwash Unit - Chair,33.0,38.0,31.0,146.0,625.0
+ENW-SBND-003,KEEN Brown Sanding band - Fine,12.0,8.0,17.0,10.0,140.0
+ENW-SBND-002,KEEN Brown Sanding band - Medium,12.0,8.0,17.0,10.0,140.0
+ENW-KLMP-9286,KEEN Slimline Daylight Led,7.5,29.75,2.375,3.5,32.0
+FOO-LNR-120,FOOTSIEBATH Plus Spa - Disposable Liner,14.0,14.0,16.0,10.0,58.0
+FOO-SPA-120,FOOTSIEBATH Plus Spa,11.0,15.0,16.0,9.0,68.0
+XIN-TWAPP-15,DERMALOGIC Towel Warmer,17.0,20.0,14.0,17.0,72.0
+XIN-TWAPP-30,DERMALOGIC Towel Warmer,20.0,18.0,20.0,28.0,100.0
+EVG-KSTK-001,KEEN Wooden Sticks,17.0,19.0,7.0,32.0,29.0
+EVG-KSTK-001-A,KEEN Wooden Sticks,14.0,14.5,6.0,14.0,26.0
+EVG-KSTK-002,KEEN Wooden Sticks,19.0,12.5,8.0,22.0,36.0
+00-YAN-DRNAS-003,Pedicure Spa Plumbing - Drain Assembly,3.5,18.5,6.0,3.0,28.0
+00-YAN-DRNAS-005 - inactive,Pedicure Spa Plumbing - Drain Assembly,4.0,14.0,8.5,2.0,28.0
+00-YAN-FAUC-201,Shampoo Bowl - Faucet,3.0,10.5,8.5,3.0,42.0
+00-YAN-FAUC-202,Shampoo Bowl - Faucet,2.5,16.0,10.0,4.0,42.0
+00-YAN-FAUC-204,Shampoo Bowl - Faucet,3.0,10.5,8.5,3.0,39.0
+00-YAN-HS-012,Pedicure Spa Plumbing - Sprayer Head Hose,5.0,12.0,12.0,1.0,7.95
+00-YAN-HS-022,Pedicure Spa Plumbing - Sprayer Head Hose,5.0,12.0,12.0,1.0,7.95
+00-YAN-SPYHD-005,Pedicure Spa Plumbing - Sprayer Head,5.0,12.0,12.0,1.0,5.0
+00-YAN-SPYHD-011 - inactive,Pedicure Spa Plumbing - Sprayer Head,5.0,12.0,12.0,1.0,8.95
+YAN-FCAPP-214,IRVING 8-Function Facial Machine,20.5,39.0,26.0,80.0,629.0
+YAN-TSAPP-120,WATKINS 120 Towel Steamer,29.5,21.0,20.0,47.5,375.0
+YAN-TSAPP-360,WATKINS 360 Towel Steamer,61.5,22.5,26.5,112.0,950.0
+YAN-TSAPP-72,WATKINS 72 Towel Steamer,21.5,21.0,20.0,39.0,275.0
+YAN-TSAPP-48,WATKINS 48 Towel Steamer,22.0,22.0,22.0,35.0,225.0
+00-JAT-NTBL-AMRST-BLK,Manicure Table Armrest,1.5,17.5,3.75,2.0,7.5
+JAT-NTRLY-941,VERONA Pedi Trolley,23.5,22.0,15.5,64.0,100.0
+JAT-NTRLY-942,VERONA II Pedi Trolley,22.0,15.75,15.5,40.0,85.0
+JAT-NDRY-521-A,VERONA Nail dryer table part - Top and Base,13.0,55.0,16.5,125.0,159.0
+JAT-NDRY-521-B,VERONA Nail dryer table part - Marble,2.5,53.0,18.5,86.0,159.0
+JAT-NDRY-521-C,VERONA Nail dryer table part - Sides,12.5,22.0,14.5,33.0,159.0
+JAT-NDRY-521-D,VERONA Nail dryer table part - Holder,10.25,13.25,11.0,13.0,159.0
+JAT-NDRY-621-A,VERONA II Nail dryer table part - Top,8.75,59.0,19.75,119.0,200.0
+JAT-NDRY-621-B,VERONA II Nail dryer table part - Marble,21.75,60.75,3.5,119.0,200.0
+JAT-NDRY-621-C,VERONA II Nail dryer table part - Base,10.0,58.5,20.5,69.0,200.0
+JAT-NDRY-621-D,VERONA II Nail dryer table part - Middle Section,18.5,40.25,14.5,70.0,200.0
+JAT-NDRY-721-A,VERONA II Square Nail dryer table part - Top and Base,13.75,24.75,24.75,83.0,375.0
+JAT-NDRY-721-B,VERONA II Square Nail dryer table part - Middle Section,22.75,16.5,12.5,35.0,275.0
+JAT-NPORK-7501,VERONA Polish Rack,2.75,43.75,38.25,30.0,75.0
+JAT-NPORK-7502,VERONA II Polish Rack,38.25,43.75,2.75,29.0,80.0
+JAT-NPORK-8501-A,VERONA Polish Rack Center with 360 degree swivel - Top,8.25,48.5,15.75,46.0,200.0
+JAT-NPORK-8501-B,VERONA Polish Rack Center with 360 degree swivel - Base,24.0,19.5,19.5,64.0,167.0
+JAT-NPORK-8502-A,VERONA II Polish Rack Center with 360 degree swivel - Top,12.5,51.0,16.0,88.0,200.0
+JAT-NPORK-8502-B,VERONA II Polish Rack Center with 360 degree swivel - Base,21.75,21.75,21.75,77.0,167.0
+JAT-NRTBL-711-A,VERONA Reception Table - Middle Section,37.75,36.25,22.0,223.0,600.0
+JAT-NRTBL-711-B,VERONA Reception Table - Left Side,41.75,19.0,12.0,82.0,100.0
+JAT-NRTBL-711-C,VERONA Reception Table - Right Side,41.75,19.0,12.0,81.0,100.0
+JAT-NRTBL-722-A,VERONA II Reception Table - Middle Section,37.75,36.25,22.0,150.0,600.0
+JAT-NRTBL-722-B,VERONA II Reception Table - Left Side,41.75,19.0,12.0,75.0,100.0
+JAT-NRTBL-722-C,VERONA II Reception Table - Right Side,41.75,19.0,12.0,75.0,100.0
+JAT-NTBL-400-A,VERONA Manicure Table without Marble top,17.5,30.25,25.25,99.0,160.0
+JAT-NTBL-400-B,VERONA Manicure Table - Full Marble,20.0,42.0,4.25,58.0,68.0
+JAT-NTBL-402-A,VERONA II Manicure Table - Bases,23.5,19.5,15.75,62.0,160.0
+JAT-NTBL-402-B,VERONA II Manicure Table - Table Top,7.5,41.75,17.75,81.0,68.0
+JAT-NTBL-502-A,VERONA II Double Manicure Table - Middle Section,14.5,22.25,11.75,33.0,225.0
+JAT-NTBL-502-B,VERONA II Double Manicure Table - Bases,29.25,29.5,16.5,119.0,225.0
+JAT-NTBL-602-A,VERONA II Triple Manicure Table - Middle Section,17.25,22.25,14.5,48.0,235.0
+JAT-NTBL-602-B,VERONA II Triple Manicure Table - Bases,29.5,16.5,19.75,82.0,235.0
+JAT-NTBL-602-C,VERONA II Triple Manicure Table - Bases,29.5,16.5,19.75,79.0,235.0
+00-JFC-DRY-005-B,GROVE Hair Dryer - Casters and bracket,2.5,13.5,15.0,4.0,38.0
+JFC-DRY-005-A,Apollo Hair Dryer,35.0,18.0,16.0,30.0,172.0
+JUN-KGJR-025 - Void,KEEN Glass Jar - 21oz,14.0,9.0,18.0,23.0,50.0
+JUN-KGJR-035 - Void,KEEN Glass Jar - 37oz,13.0,12.0,18.0,27.0,63.0
+00-XIT-DRNAS-006,Pedicure Spa Plumbing - Drain Assembly,3.5,10.5,7.0,2.0,28.0
+00-XIT-DRNAS-31,Shampoo Bowl - Metal Drain Assembly,4.5,4.5,4.0,1.0,8.95
+00-XIT-FAUC-002,Pedicure Spa Plumbing - Faucet,3.75,9.75,3.0,3.0,22.0
+00-XIT-FAUC-004,Pedicure Spa Plumbing - Faucet,3.25,4.75,3.0,3.0,24.0
+00-XIT-FAUC-205,Shampoo Bowl - Faucet,2.75,13.25,7.0,4.0,38.0
+00-XIT-SPYHD-015,Pedicure Spa Plumbing - Sprayer Head,4.0,2.0,1.75,1.0,9.95
+00-XIT-SPYHD-031,Shampoo Bowl - Sprayer Head,5.0,12.0,12.0,1.0,5.25
+KEL-BBCHR-2096,VINTAGE Barber Chair,0.0,0.0,0.0,250.0,945.0
+KEL-PDCHR-5056,INDEPENDENCE Pedicure Chair and Stool,0.0,0.0,0.0,120.0,588.0
+KEL-SYCHR-1173,PRESIDENTIAL Styling Chair with Stainless Square Base & Pump,0.0,0.0,0.0,123.0,322.0
+KEL-SYSTL-101-DRKCHY,Deluxe Styling Station (Dark Cherry),0.0,0.0,0.0,400.0,773.0
+KEL-SYSTL-201-DRKCHY,Double Deluxe Styling Station (Dark Cherry),0.0,0.0,0.0,440.0,873.0
+KEL-SYSTL-201-ESP,Double Deluxe Styling Station (Espresso),0.0,0.0,0.0,440.0,873.0
+KEL-SYSTL-201-LTCHY - Void,Double Deluxe Styling Station,0.0,0.0,0.0,0.0,873.0
+00-KIN-APPHDR-052,Appliance Holder - Crimped,5.0,12.0,12.0,1.0,3.95
+00-KIN-APPHDR-056,Appliance Holder - Opened,5.0,12.0,12.0,1.0,2.95
+00-KIN-APPHDR-057,Appliance Holder - Crimped,5.0,12.0,12.0,1.0,2.95
+00-KIN-APPHDR-058,Appliance Holder - Opened,5.0,12.0,12.0,1.0,2.95
+00-KIN-APPHDR-059,Appliance Holder - Crimped,5.0,12.0,12.0,1.0,3.5
+KIN-APPHDR-009,Appliance holder - Desktop,5.0,10.0,7.5,4.0,21.95
+KIN-APPHDR-009-A,Appliance holder - Wall Mounted,5.0,10.5,7.5,1.5,13.95
+KIN-APPHDR-035,Appliance holder - Cart Mounted,4.0,11.0,5.0,2.0,9.5
+KIN-SERTY-011,BAILEY Service Tray - Aluminum,7.0,21.0,21.0,10.0,35.0
+KIN-SERTY-023,CALEB Folding Service Tray,6.0,34.0,15.0,8.0,34.0
+KIN-TRLY-101,CLAIRE Salon Trolley - Lockable,9.0,32.0,16.0,19.0,62.0
+00-FRK-DP-001,LITTLE GIANT - Discharge Pump,6.5,8.75,6.5,7.5,135.0
+00-LUR-JET-004,LURACO Pipeless MAGNA Jet,5.0,12.0,12.0,4.5,90.0
+00-LUR-JET-004-HD,LURACO Pipeless MAGNA Jet Head,5.0,5.0,5.0,2.0,40.0
+00-LUR-JET-005,LURACO Pipeless Jet,5.0,12.0,12.0,4.5,65.0
+00-LUR-JET-005-CP,LURACO Pipeless Jet Cap,1.5,3.0,3.0,1.0,25.0
+00-LUR-JET-006,LURACO Dura Jet III w/LED,5.0,12.0,12.0,5.0,95.0
+00-LUR-JET-007 -  Void,LURACO Pipeless MAGNA Jet with LED,0.0,0.0,0.0,0.0,125.0
+00-ORY-LGHT-04-A,LED Light - Light,2.5,2.0,2.0,2.5,15.0
+00-ORY-LGHT-04-B,LED Light - Housing,2.5,3.25,3.25,1.0,10.0
+00-ORY-LGHT-04-C,LED Light - Rubber Gasket,0.125,3.125,3.125,1.0,5.0
+00-ORY-LGHT-04-D,LED Light - Black Plastic Nut,0.5,3.25,3.25,1.0,5.0
+00-ORY-LGHT-04-E,LED Light - Adaptor,2.5,7.0,8.25,3.0,12.0
+00-MOT-ACT-005-A,SHIATSULOGIC Full-Function Chair - AS005 Seat Motor,4.75,19.0,10.5,5.0,55.0
+00-MOT-ACT-005-B,SHIATSULOGIC Full-Function Chair - AS005 Back Motor,4.75,19.0,10.5,5.0,55.0
+00-MOT-ACT-005-C,SHIATSULOGIC Full-Function Chair - AS005 Control Box,0.0,0.0,0.0,2.0,45.0
+00-MOT-ACT-005-D,SHIATSULOGIC Full-Function Chair - AS005 Hand Controller,3.0,6.5,3.0,2.0,45.0
+00-PUR-DP-002-A,HANNING - Discharge Pump Big Rubber Adapter,2.5,1.75,1.75,1.0,8.85
+00-PUR-DP-002-B,HANNING - Discharge Pump Small Rubber Adapter,2.5,1.5,1.5,1.0,7.65
+00-PUR-DP-002-C,HANNING - Discharge Pump Smaller Clamp,0.5,2.0,1.5,1.0,1.65
+00-PUR-DP-002-D,HANNING - Discharge Pump Big Clamp,0.5,2.5,2.0,1.0,1.35
+00-PUR-DP-002-E,HANNING - Discharge Pump Power Cord,0.25,7.5,7.0,1.0,8.25
+00-PUR-DP-002-F,HANNING - Discharge Pump Motor,5.0,6.0,3.5,5.0,50.0
+DON-DYCHR-24331005-B,ESTELLE Hair Dryer Chair Base,14.0,33.0,17.0,19.0,182.0
+KAN-TCHR-5103,SHIATSULOGIC PI PI Massage Chair,18.5,42.0,30.0,136.0,599.0
+KAN-TCHR-700,SHIATSULOGIC CX Vibration Massage Chair,20.0,37.0,30.0,68.0,450.0
+KAN-TCHRCVR-03-A-BG - Inactive,SHIATSULOGIC - Air Pressure Cover Set (Burgundy),13.0,33.5,24.0,23.5,95.0
+KAN-TCHRCVR-03-A-BLK - Inactive,SHIATSULOGIC - Air Pressure Cover Set (Black),13.0,33.5,24.0,23.5,95.0
+KAN-TCHRCVR-03-A-CA - Inactive,SHIATSULOGIC - Air Pressure Cover Set (Cashmere),13.0,33.5,24.0,23.5,95.0
+JAT-NTBL-600-A,VERONA Triple Manicure Table - Middle Section,17.25,22.25,14.5,49.0,0.0
+KAN-TCHRCVR-03-A-CPO - Inactive,SHIATSULOGIC - Air Pressure Cover Set (Cappucinno),13.0,33.5,24.0,23.5,95.0
+KAN-TCHRCVR-03-A-RD - Inactive,SHIATSULOGIC - Air Pressure Cover Set (Red),13.0,33.5,24.0,23.5,95.0
+KAN-TCHRCVR-03-A-SD - Inactive,SHIATSULOGIC - Air Pressure Cover Set (Sand),13.0,33.5,24.0,23.5,95.0
+00-YAN-BSH-214-D,IRVING - Big Hair Brush,3.0,2.0,2.0,1.0,16.8
+KAN-TCHRCVR-03-BG,SHIATSULOGIC - Vibration Cover set (Burgundy),9.0,43.0,25.0,17.5,95.0
+KAN-TCHRCVR-03-BLK,SHIATSULOGIC - Vibration Cover set (Black),9.0,43.0,25.0,17.5,95.0
+KAN-TCHRCVR-03-CA,SHIATSULOGIC - Vibration Cover set (Cashmere),9.0,43.0,25.0,17.5,95.0
+KAN-TCHRCVR-03-CFE,SHIATSULOGIC - Vibration Cover set (Coffee),9.0,43.0,25.0,17.5,95.0
+KAN-TCHRCVR-03-CPO,SHIATSULOGIC - Vibration Cover set (Cappuccino),9.0,43.0,25.0,17.5,95.0
+KAN-TCHRCVR-03-RD,SHIATSULOGIC  - Vibration Cover set (Red),9.0,43.0,25.0,17.5,95.0
+HUI-SYCHR-253,DRAPER Styling Chair,25.0,26.0,25.0,95.0,228.0
+KAN-TCHRCVR-03-SD,SHIATSULOGIC - Vibration Cover set (Sand),9.0,43.0,25.0,17.5,95.0
+KAN-TCHRCVR-22-IVCPO,SHIATSULOGIC - FLORENCE Vibration Cover Set (Ivory - Cappucinno),9.0,43.0,25.0,15.0,105.0
+YAL-BBCHR-31907,DELANO Barber Chair,32.0,31.0,31.0,155.0,599.0
+KAN-TCHRCVR-22-IVGY,SHIATSULOGIC - FLORENCE Vibration Cover Set (Ivory - Grey),9.0,43.0,25.0,15.0,105.0
+KAN-TCHRCVR-25-CPOSD,SHIATSULOGIC - SERENITY Vibration Cover Set (Cappuccino - Sand),9.0,43.0,25.0,15.0,105.0
+KAN-TCHRCVR-25-RDIV,SHIATSULOGIC - SERENITY Vibration Cover Set (Red - Ivory),9.0,43.0,25.0,15.0,105.0
+KAN-TCHRCVR-26-GYIV,SHIATSULOGIC - LILY Vibration Cover Set (Grey - Ivory),9.0,43.0,25.0,15.0,105.0
+KAN-TCHRCVR-26-RDIV,SHIATSULOGIC - LILY Vibration Cover Set (Red - Ivory),9.0,43.0,25.0,15.0,105.0
+JAT-NTBL-600-B,VERONA Triple Manicure Table - Bases,29.5,16.5,19.75,80.0,0.0
+KAN-TCHRCVR-27-BGIV,SHIATSULOGIC - LOTUS Vibration Cover Set (Burgundy - Ivory),9.0,43.0,25.0,15.0,95.0
+KAN-TCHRCVR-27-CPOIV,SHIATSULOGIC - LOTUS Vibration Cover Set (Cappuccino - Ivory),9.0,43.0,25.0,15.0,95.0
+KAN-TCHRCVR-27-GYIV,SHIATSULOGIC - LOTUS Vibration Cover Set (Grey - Ivory),9.0,43.0,25.0,15.0,95.0
+KAN-TCHRCVR-27-RDIV - Void,SHIATSULOGIC - LOTUS Vibration Cover Set (Red - Ivory),9.0,43.0,25.0,15.0,95.0
+KAN-TCHRCVR-81-BLK,SHIATSULOGIC - FIOR Vibration Cover Set (Black),9.0,43.0,25.0,15.0,120.0
+KAN-TCHRCVR-81-CA - Void,SHIATSULOGIC - FIOR Vibration Cover Set (Cashmere),9.0,43.0,25.0,15.0,120.0
+KAN-TCHRCVR-81-RD,SHIATSULOGIC - FIOR Vibration Cover Set (Red),9.0,43.0,25.0,15.0,120.0
+00-SSI-HS-5,Pedicure Spa Plumbing - Hose,1.0,6.0,6.0,1.0,5.0
+00-KAN-TCHRARM-907,907D Armrest with Tray,9.0,82.0,15.0,25.0,95.0
+00-SSI-HS-8,Pedicure Spa Plumbing - Hose 1/2F x 3/8F,1.0,6.0,6.0,1.0,6.25
+00-WAT-HS-1,Stainless Steel Hose - 1' x 1/2 F x 3/8 F,1.0,6.0,6.0,1.0,3.25
+00-WAT-HS-5,Stainless Steel Hose - 5' x 1/2 F x 1/2 F,1.0,6.0,6.0,1.0,5.0
+00-WAT-HS-8 - inactive,Stainless Steel Hose - 8' x 1/2 F x 3/8 F,1.0,6.0,6.0,1.0,6.5
+HON-APCHR-3208-BLK,HERMAN All Purpose Chair,25.5,25.5,23.0,83.5,228.0
+HON-BWSH-289671-BLK,ARON Backwash - Shampoo Bed,32.25,42.75,26.5,88.0,400.0
+KAN-TCHR-906D-BLK,BEAUTYMALL Massage Chair,25.0,42.0,31.0,136.0,472.0
+00-HON-SMPO-2896-BLK,ARON - METTE Backwash Units Shampoo Bowl (Black),13.0,25.0,24.0,45.0,139.0
+JAT-NTBL-600-C,VERONA Triple Manicure Table - Bases,29.5,16.5,19.75,79.0,0.0
+00-HON-SMPO-2896-WH - Void,ARON - METTE Backwash Units Shampoo Bowl (White),13.0,25.0,24.0,38.0,140.0
+HAI-PDSTL-10612-CRM,UMI Pedicure Stool (Cream),19.0,21.0,13.0,16.0,40.0
+HON-BWSH-289677-WH,METTE Backwash - Shampoo Bed,41.0,28.0,50.0,88.0,400.0
+00-HON-SMPO-2911-BLK,KLYNE Backwash Unit - Shampoo Bowl,21.25,14.0,23.25,32.0,139.0
+HON-BWSH-2911-BLK,KLYNE Backwash Unit with shampoo bowl,30.75,45.5,27.0,105.0,395.0
+HON-SYCHR-2899-BLK,HANS Styling Chair,26.0,25.5,23.0,60.0,159.0
+HON-SYCHR-6836-BLK,MALIN Styling Chair,25.5,25.5,22.5,50.0,150.0
+HON-SYCHR-6876-BLK,PRESTON II Styling Chair,25.5,25.5,22.5,70.0,125.0
+HON-SYCHR-6926-BLK,HUGO Styling Chair,25.5,25.5,23.0,56.0,156.0
+HAI-TCSTL-10412-CFE,TOTO Technician Stool (Coffee),21.0,26.0,12.0,15.0,55.0
+HON-SYCHR-6969-BLK,MILLA Styling Chair,25.5,25.5,22.5,60.0,156.0
+00-ZHT-BWL-033-BLK,Glass Pedicure Spa Bowl - Black Nickel,12.5,24.5,23.5,48.0,250.0
+HON-SYCHR-6971-BLK,ARON Styling Chair,25.5,25.5,23.0,65.5,156.0
+HON-SYCHR-6977-BLK,METTE Styling Chair,25.5,25.5,23.0,70.0,156.0
+AYC-SPA-FLORENCE,FLORENCE Pedicure Tub,0.0,0.0,0.0,0.0,0.0
+RAN-MAT-3660 - Inactive,Salon Mat - Half Circle,12.5,40.0,12.5,20.0,75.0
+00-YAN-GLS-214-B,IRVING - High Frequency Glass - Ball,0.5,6.0,1.0,1.0,6.85
+KAM-NTBL-092-A-WH,Fiona Nail Table Top White,10.875,46.625,20.0,43.0,90.95
+KAM-NTBL-092-B-WH,Fiona Nail Table Leg White,34.125,11.675,11.675,13.0,105.45
+00-ZHT-BWL-033-GLD,Glass Pedicure Spa Bowl - Gold Reflective,12.5,24.5,23.5,48.0,250.0
+00-ZHT-BWL-033-CYL,Glass Pedicure Spa Bowl - Crystal Reflective,12.5,24.5,23.5,48.0,250.0
+HON-BWSH-289671-WH,ARON Backwash - Shampoo Bed,32.25,42.75,26.5,88.0,400.0
+KAN-TCHR-5112,SHIATSULOGIC DX Massage Chair,21.0,30.0,42.0,145.0,499.0
+LEB-SCB-2752-BLK,OVERBROOK Shampoo Cabinet,5.5,35.0,15.5,37.0,99.0
+DON-HRAPP-500 - Void,CELINA Hair Steamer,37.0,24.0,20.0,29.5,154.0
+DON-DYCHR-24331801-A,HAMILTON Hair Dryer Chair Top Seat,21.0,27.0,25.0,42.0,78.0
+DON-DYCHR-24331801-B,HAMILTON Hair Dryer Chair Base,14.0,33.0,17.0,19.0,78.0
+DON-BST-901,Kid Booster Seat,7.0,16.0,12.0,3.0,12.95
+KAN-TCHRCVR-29-CPOBG,SHIATSULOGIC - ALESSI Vibration Cover Set (2-Tone),9.0,43.0,25.0,15.0,120.0
+KAN-TCHRCVR-29-SDCPO,SHIATSULOGIC - ALESSI Vibration Cover Set (2-Tone),9.0,43.0,25.0,15.0,120.0
+00-KAN-TCHRARM-51,SHIATSULOGIC - 51 Armrest with Tray,9.0,28.0,15.0,25.0,135.0
+00-KAN-TCHRARM-61,SHIATSULOGIC - 61 Armrest with Tray,9.0,28.0,15.0,25.0,135.0
+HAI-TCSTL-10612-CFE,UMI Technician Stool (Coffee),14.0,21.0,22.0,17.0,50.0
+00-XIT-HTRP-8318,Hair Trap,6.7,6.7,3.5,1.0,5.95
+SHL-TUB-012-BLK,VIGGO Pedicure Tub - Raw Base (Black),0.0,0.0,0.0,0.0,395.0
+MED-MSTN-2,Massage Stone - Single L,1.0,3.0,2.0,0.5,2.65
+MED-MSTN-3,Massage Stone - Single M,0.675,2.675,1.875,0.25,2.0
+MED-MSTN-36,Polished Stone Set - 36 pcs,3.125,13.25,8.5,12.5,48.0
+MED-MSTN-45,Polished Stone Set - 45 pcs,3.0,14.0,8.5,15.0,59.0
+MED-MSTN-6,Massage Stone - Facial Stone Set (6 pcs),2.5,1.5,3.0,6.0,8.0
+MED-MSTN-8,Massage Stone - Toes Stone Set (8 pcs),2.8,1.5,3.0,7.0,6.75
+BAO-TUB-033-BLK,FLORENCE Pedicure Tub - Raw Base (Black) without Glass Bowl,260.0,550.0,200.0,800.0,400.0
+MED-STAPP-6,DECKER Stone Heater,9.5,20.0,14.0,9.5,59.0
+BAO-TUB-033-CSND,FLORENCE Pedicure Tub - Raw Base (Coastal Sand) without Glass Bowl,260.0,550.0,200.0,800.0,400.0
+00-XIT-AVB-001,Shampoo Bowl - Vacuum Breaker,2.25,2.75,2.0,1.0,15.95
+00-XIT-SPY-015,Pedicure Spa Plumbing - Sprayer Set,2.5,8.5,4.0,1.0,15.0
+AYC-MISC,Miscellaneous Item - Custom Material,0.0,0.0,0.0,0.0,0.0
+AYC-CLEARANCE,AYC Clearance Items,0.0,0.0,0.0,0.0,0.0
+AYC-SHIPPING - Void,Shipping Services,0.0,0.0,0.0,0.0,0.0
+JAT-NTBL-600-D,VERONA Triple Manicure Table - Marble,6.5,39.0,20.0,158.0,275.0
+HAI-PDSTL-10312-BLK,DAYTON Pedicure Stool (Black),18.5,18.5,10.5,19.0,35.0
+00-YAN-HT-360,WATKINS 360 - Heating Element,0.5,12.0,2.0,3.0,92.0
+00-YAN-HT-120,WATKINS 120 - Heating Element,0.5,8.0,1.75,2.0,55.0
+00-YAN-HT-48,WATKINS 48 - Heating Element,0.5,7.5,1.75,1.0,45.0
+00-KAN-RMT-5112,SHIATSULOGIC DX Massage Chair - Remote control,1.0,9.5,5.5,1.0,80.0
+00-KAN-MBRD-5112,SHIATSULOGIC DX Massage Chair - Mainboard,2.0,8.25,4.0,1.0,85.0
+00-KAN-MTR-03-A,SHIATSULOGIC PI Massage Chair - Rolling Motor,6.5,3.75,3.75,5.0,48.0
+00-KAN-MTR-03-B,SHIATSULOGIC PI Massage Chair - Tapping Motor,2.5,5.0,2.5,2.0,48.0
+00-KAN-MBRD-03,SHIATSULOGIC PI Massage Chair - Mainboard,2.0,8.0,4.5,2.0,85.0
+00-KAN-RMT-03,SHIATSULOGIC PI Massage Chair - LCD Remote Controller,1.0,8.0,2.5,1.0,85.0
+KAN-TCHRCVR-16-SDCPO,SHIATSULOGIC - Vibration Cover set (Sand - Cappuccino),12.0,44.0,25.0,27.0,120.0
+HAI-PDSTL-10312-CA,DAYTON Pedicure Stool (Cashmere),18.5,18.5,10.5,19.0,35.0
+00-HAI-PMP-103-A,Pump for stools - Pedicure Stool,3.5,14.0,3.5,2.25,10.0
+00-HAI-PMP-103-B,Pump for stools - Technician Stool,3.5,14.0,3.5,2.25,10.0
+GTP-SLPR-360,Disposable Slippers,14.0,22.0,14.5,18.0,35.0
+KAN-TCHR-906D-BG,BEAUTYMALL Massage Chair,25.0,42.0,31.0,136.0,472.0
+00-DON-BLB-209,KELLER Sterilizer - Bulb,1.0,10.0,1.0,1.0,18.0
+00-DON-CTRL-209,KELLER Sterilizer - Start,1.0,1.0,1.0,1.0,3.0
+00-HAI-CSTR-103,Casters,3.5,3.5,3.5,1.0,0.99
+DIN-KTWL-13-WH,KEEN - Cozy Blends Microfiber Towels - White,18.0,27.5,19.5,40.0,180.0
+DIN-KTWL-13-BG,KEEN - Cozy Blends Microfiber Towels - Burgundy,18.0,27.5,19.5,40.0,180.0
+00-JAT-CVR-502,VERONA II Double and Triple Manicure Table - Gel Dryer Cover,0.625,21.5,4.75,1.0,10.0
+DIN-KTWL-13-BLK,KEEN - Cozy Blends Microfiber Towels - Black,18.0,27.5,19.5,40.0,180.0
+JAT-NPORK-6501,VERONA Polish Rack with LED Lights,38.0,44.0,4.0,35.0,170.0
+DIN-KTWL-13-BLU,KEEN - Cozy Blends Microfiber Towels - Blue,18.0,27.5,19.5,40.0,180.0
+DIN-KTWL-13-BR,KEEN - Cozy Blends Microfiber Towels - Brown,18.0,27.5,19.5,40.0,180.0
+KAN-TCHR-906D-CA,BEAUTYMALL Massage Chair,25.0,42.0,31.0,136.0,472.0
+00-KAN-TRAY-006,SHIATSULOGIC Massage Chair Tray Support & Hinge,2.5,10.5,3.5,2.0,11.95
+JAT-NRTBL-833,AVON I Reception Table,40.0,51.0,22.0,300.0,700.0
+00-BUL-BLB-621,Black Light Bulb for Nail Dryer Table,4.25,2.5,2.5,1.0,3.0
+HAI-CUCHR-11804-CRM,VERSA Customer Chair (Cream),26.0,28.0,15.0,40.0,88.0
+HUI-BWSH-260-A,ALTON Backwash Unit - Chair,28.0,48.0,30.0,107.0,495.0
+HAI-CUCHR-11804-CFE,VERSA Customer Chair (Coffee),26.0,28.0,15.0,40.0,88.0
+HAI-TCSTL-10412-CRM,TOTO Technician Stool (Cream),21.0,26.0,12.0,15.0,55.0
+KAM-NTBL-092-B-BLK,Fiona Nail Table Leg Black,34.125,11.675,11.675,13.0,105.45
+HUI-SYCHR-260,ALTON Styling Chair,24.0,26.0,26.0,95.5,249.0
+KAN-TCHRCVR-16-BLK,SHIATSULOGIC - Vibration Cover set (Black),12.0,44.0,25.0,27.0,120.0
+KAN-TCHRCVR-16-BG,SHIATSULOGIC - Vibration Cover set (Burgundy),12.0,44.0,25.0,27.0,120.0
+SNS-KSPA-111515-YLW-B,Kid Pedicure Tub- Yellow,17.0,51.0,24.0,60.0,900.0
+HAI-TCSTL-637-CFE,ALICE Technician Stool (Coffee),11.0,21.0,21.0,18.0,48.0
+00-YAN-DRNAS-005-T4,Pedicure Spa Plumbing - Drain Assembly (Custom for T4),7.0,16.25,11.5,46.0,28.0
+SNS-KSPA-111515-YLW-A,Kid Pedicure Chair- Yellow,10.0,21.0,20.0,63.0,200.0
+CAN-TWAPP-08,DERMALOGIC Towel Warmer,13.0,16.5,13.0,12.0,79.0
+CAN-TWAPP-15,DERMALOGIC Towel Warmer,17.0,20.0,14.0,16.0,100.0
+CAN-TWAPP-30,DERMALOGIC Towel Warmer,21.0,19.0,20.0,25.0,142.0
+SNS-KSPA-111515-PUR-B,Kid Pedicure Tub - Purple,17.0,51.0,24.0,60.0,900.0
+KAN-TCHR-906D-CPO,BEAUTYMALL Massage Chair,25.0,42.0,31.0,136.0,472.0
+SNS-KSPA-111515-PUR-A,Kid Pedicure Chair - Purple,10.0,21.0,20.0,63.0,200.0
+00-YAN-HS-18,Shampoo Bowl - Crossover Hose,3.0,10.0,7.0,1.0,3.75
+00-KAN-TCHR-CVR,SHIATSULOGIC Massage Chair Mechanism Elastic Fabric Cover,3.0,10.0,7.0,2.0,20.0
+KAN-TCHR-907D-BLK,BEAUTYMALL Massage Chair,25.0,42.0,31.0,136.0,472.0
+KAN-TCHR-907D-BG,BEAUTYMALL Massage Chair,25.0,42.0,31.0,136.0,472.0
+KAN-TCHR-907D-CA,BEAUTYMALL Massage Chair,25.0,42.0,31.0,136.0,472.0
+SNS-KSPA-111515-PNK-B,Kid Pedicure Tub - Pink,17.0,51.0,24.0,60.0,900.0
+SNS-KSPA-111515-PNK-A,Kid Pedicure Chair - Pink,10.0,21.0,20.0,63.0,200.0
+KAN-TCHR-907D-CPO,BEAUTYMALL Massage Chair,25.0,42.0,31.0,136.0,472.0
+AYC-P&H - Void,Process and Handling Fee,0.0,0.0,0.0,0.0,15.0
+CON-SYSTA-222-A-BLK,MARKISON Wall Mount Styling Station (Black with Metal Top),11.0,38.0,18.0,38.0,90.0
+HON-SYCHR-6956-BLK,RICHARDSON Styling Chair (BLK),22.5,27.0,23.0,55.0,135.0
+HON-SYCHR-6956-WH,RICHARDSON Styling Chair (WH),22.5,27.0,23.0,55.0,135.0
+HON-SYCHR-6968-BLK,TRINITY Styling Chair (BLK),22.5,27.0,23.0,70.0,135.0
+HON-SYCHR-6968-WH,TRINITY Styling Chair (WH),22.5,27.0,23.0,70.0,135.0
+SNS-KSPA-111515-BLU-B,Kid Pedicure Tub - Blue,17.0,51.0,24.0,60.0,900.0
+CON-SYSTA-222-BR,MARKISON Wall Mount Styling Station (Berkeley),11.0,38.0,18.0,38.0,78.0
+MIN-CUCHR-IS-IV,Isobella Customer Chair (Ivory),20.0,27.0,27.0,50.0,233.33
+CON-SCB-2752-BLK,SANDEN Shampoo Cabinet (Black),8.0,38.0,18.0,44.0,99.0
+CON-SCB-2752-BR,SANDEN Shampoo Cabinet (Berkeley),8.0,38.0,18.0,44.0,99.0
+MIN-CUCHR-IS-BLK,Isobella Customer Chair (Black),20.0,27.0,27.0,50.0,233.33
+00-KAN-RMT-1603,SHIATSULOGIC EX Massage Chair - LCD Remote Controller,1.0,8.0,2.5,1.0,85.0
+MIN-CUCHR-JN-GY,Janette Customer Chair (Gray),16.0,31.0,31.0,37.0,171.11
+MIN-CUCHR-JN-ESP,Janette Customer Chair (Espresso),16.0,31.0,31.0,37.0,171.11
+SHL-TUB-012-WH,VIGGO Pedicure Tub - Raw Base (White),0.0,0.0,0.0,0.0,395.0
+KAN-TCHR-7703-CFE,SHIATSULOGIC PI Massage Chair,21.0,42.0,30.0,145.0,495.0
+MIN-CUCHR-JN-IV,Janette Customer Chair (Ivory),16.0,31.0,31.0,37.0,171.11
+MIN-CUCHR-JN-BLK,Janette Customer Chair (Black),16.0,31.0,31.0,37.0,171.11
+MIN-CUCHR-JN-ORG,Janette Customer Chair (Orange),16.0,31.0,31.0,37.0,171.11
+SNS-KSPA-111515-BLU-A,Kid Pedicure Chair - Blue,10.0,21.0,20.0,63.0,200.0
+DON-DYCHR-24332811-B,CONTI Hair Dryer Chair Base,32.0,17.0,13.0,19.0,154.0
+JAT-NTBL-500-B,VERONA Double Manicure Table - Bases,29.25,29.5,16.5,81.0,225.0
+00-YAN-ADPTR-214-A,IRVING - Brush Adaptor,1.0,2.0,2.0,1.0,16.8
+00-YAN-HNDL-214-A,IRVING - Big Brush Handle,2.0,8.0,5.5,1.0,50.0
+00-YAN-BSH-214-A,IRVING - Big Sponge Brush,3.0,2.0,2.0,1.0,14.0
+00-YAN-BSH-214-C,IRVING - Small Foam Brush,0.75,3.0,0.75,1.0,10.95
+00-YAN-GAL-214,IRVING - Galvanic set,1.0,4.0,8.5,1.0,35.0
+00-YAN-GLS-214-A,IRVING - Glass Jar,4.5,5.0,5.0,1.0,14.95
+00-YAN-GLS-214-C,IRVING - High Frequency Glass - Mushroom,1.5,6.0,1.5,1.0,6.9
+00-YAN-GLS-214-D,IRVING - High Frequency Glass - Straight,0.5,5.75,0.5,1.0,6.9
+00-YAN-GLS-214-E,IRVING - High Frequency Glass - Spoon,0.5,6.0,0.75,1.0,7.83
+00-YAN-BSH-214-E,IRVING - Small Hair Brush,3.5,0.5,0.5,1.0,12.0
+00-YAN-CTRL-214-J,IRVING - Main Switch,1.0,0.75,0.5,1.0,4.95
+00-YAN-GLS-214-F,IRVING - Flat Vacuum Glass tube,2.75,0.25,0.75,1.0,3.88
+00-YAN-GLS-214-G,IRVING - Straight Vacuum Glass tube,3.25,0.5,0.5,1.0,3.88
+00-YAN-GLS-214-H,IRVING - J Style Vacuum Glass tube,0.25,3.75,1.0,1.0,3.88
+00-YAN-HS-214,IRVING - Vacuum - Sprayer hose,1.0,5.0,4.0,1.0,11.5
+00-YAN-LGHT-214,IRVING - Woods Lamp Light,2.0,11.0,7.0,2.0,88.0
+00-HON-FTRST-69,Styling Chair Footrest,5.5,21.0,13.0,1.0,22.0
+HAI-PDSTL-10612-CFE,UMI Pedicure Stool (Coffee),19.0,21.0,13.0,16.0,40.0
+KAN-TCHR-8103,SHIATSULOGIC PI PI Massage Chair,21.25,41.75,30.25,132.0,650.0
+00-DON-GLS-1000,PLANO Facial Steamer Glass Jar,6.75,3.875,3.875,1.0,15.95
+00-DON-GLS-201,FORNEY Facial Steamer Glass Jar,5.125,5.0,5.0,1.0,14.95
+00-XIE-CTRL-008,Control Box - Power Outlet - 1 Air and 1 Continuous and 1 Light Outlet,3.0,11.0,7.0,2.0,16.0
+00-YAN-DRNAS-003-A,Drain Assembly - L-Trap,1.5,3.5,5.0,1.0,2.5
+00-XIE-PVC-63015,PVC Pipe for Air Control Button,0.125,1.0,0.125,1.0,0.18
+JAT-NTBL-502-C,VERONA II Double Manicure Table - Marble,4.5,39.0,20.0,111.0,100.0
+JAT-NTBL-602-D - Void,VERONA II Triple Manicure Table - Marble,29.5,16.5,19.75,79.0,0.0
+JAT-NTBL-602-D,VERONA II Triple Manicure Table - Marble,6.5,39.0,20.0,152.0,275.0
+AYC-RETURNSHIPPING - Void,Shipping Services,0.0,0.0,0.0,0.0,0.0
+00-JAT-CVR-402,VERONA II Manicure Table - Gel Dryer Cover,0.625,22.0,5.0,2.0,10.0
+JAT-KLNR-101,KEEN Pedicure Tub Liners,9.0,12.0,12.5,9.0,28.0
+GTP-KTS-10,KEEN Toe Separator - Firm,10.0,14.0,14.0,10.0,36.0
+GTP-KTS-101,KEEN Toe Separator - Soft,10.5,25.0,14.0,6.0,26.0
+00-YAN-FAUC-004-T4,Pedicure Spa Plumbing - Faucet (Custom for T4),20.0,17.25,15.0,36.0,24.0
+JAT-NTBL-500-A,VERONA Double Manicure Table - Middle Section,14.5,22.25,11.75,62.0,225.0
+00-HON-SMPO-2896-WH,ARON - METTE Backwash Units Shampoo Bowl (White),13.0,25.0,24.0,45.0,139.0
+HAI-TCSTL-105-BLK,HARMONY Technician/Cutting Stool,22.0,23.5,11.25,17.0,59.0
+AYC-REPAIRS,Repair Services,0.0,0.0,0.0,0.0,0.0
+AYC-SHIPPING,AYC Shipping Services,0.0,0.0,0.0,0.0,0.0
+AYC-RETURNSHIPPING,AYC Shipping Services,0.0,0.0,0.0,0.0,0.0
+00-YAN-BSH-214-B,IRVING - Big Foam Brush,2.75,1.75,1.75,1.0,14.0
+AYC-SPA-LOTUS,LOTUS Pedicure Tub,0.0,0.0,0.0,92.0,700.0
+AYC-SPA-FEDORA,FEDORA Pedicure Tub,0.0,0.0,0.0,105.0,800.0
+AYC-SPA-SERENITY,SERENITY Pedicure Tub,0.0,0.0,0.0,91.0,700.0
+AYC-SPA-ARROJO,ARROJO Pedicure Tub,0.0,0.0,0.0,100.0,700.0
+00-HON-PMP-55,Styling Chair Pump,0.0,0.0,0.0,28.0,88.0
+AYC-SPA-ALESSI,ALESSI Pedicure Tub,0.0,0.0,0.0,101.0,800.0
+JAT-NTBL-500-C,VERONA Double Manicure Table - Marble,4.5,39.0,20.0,116.0,100.0
+AYC-SPA-FIOR,FIOR Pedicure Tub,0.0,0.0,0.0,85.0,800.0
+00-DON-PMP-31905,LINCOLN Barber Chair Pump,9.5,17.5,11.0,35.5,69.0
+AYC-SPA-LENOIR,LENOIR Pedicure Tub,0.0,0.0,0.0,100.0,800.0
+00-HON-PMP-12,Styling Chair Pump,9.5,17.5,11.0,15.5,32.0
+00-HON-BS-55,Styling Chair Base,0.0,0.0,0.0,15.5,36.0
+MED-MSTN-1,Massage Stone - Single XL,1.0,4.5,3.0,1.0,3.0
+00-KAN-MBRD-03-A,SHIATSULOGIC PI Massage Chair - Actuator Mainboard,5.0,10.0,7.0,3.0,85.0
+00-KAN-CTRL-03,SHIATSULOGIC PI - Control - Limit Switch,4.0,4.0,4.0,2.0,24.0
+00-TAN-FIT-004,Fitting - Sprayer Holder,4.0,4.0,4.0,2.0,4.5
+00-TAN-FIT-005,Fitting - Sprayer Holder,4.0,4.0,4.0,2.0,4.5
+00-DON-TRM-5679,Styling Chair Base Trim,3.0,11.0,8.0,3.0,7.5
+00-DON-TRM-31905,Barber Chair Base Trim,3.0,77.0,8.0,3.0,11.5
+00-YAN-DRNAS-003-B,Drain Assembly - S-Trap,3.0,11.0,8.0,1.0,2.5
+00-DON-HS-2806,Drain Hose for Backwash Unit,3.0,11.0,8.0,3.0,8.0
+00-HON-PMP-13,Styling Chair Pump,9.0,17.5,11.0,17.0,48.0
+YAN-KMSK-01,KEEN Medical Mask,4.0,8.0,4.0,1.5,2.54
+HUI-BWSH-254-A,JANUS Backwash Unit - Chair,30.0,47.0,31.0,144.0,495.0
+00-HON-BS-13,Styling Chair Base,0.0,0.0,0.0,15.5,28.0
+MIN-CUCHR-JP-IV,Josephina Customer Chair (Ivory),15.0,33.0,23.0,47.0,191.11
+MIN-CUCHR-JP-BLK,Josephina Customer Chair (Black),15.0,33.0,23.0,47.0,191.11
+MIN-CUCHR-JP-BR,Josephina Customer Chair (Brown),15.0,33.0,23.0,47.0,191.11
+MIN-CUCHR-NJ-GY,New Jersey Customer Chair (Gray),28.0,24.0,15.0,53.0,233.33
+KAN-TCHR-1603,SHIATSULOGIC EX Massage Chair,19.0,42.0,32.0,145.0,599.0
+MIN-CUCHR-NJ-IV,New Jersey Customer Chair (Ivory),28.0,24.0,15.0,53.0,233.33
+MIN-CUCHR-NJ-BLK,New Jersey Customer Chair (Black),28.0,24.0,15.0,53.0,233.33
+HON-BWSH-2922-BLK,KLYNE Backwash Unit with shampoo bowl and footrest,27.0,46.0,32.0,110.0,395.0
+JAT-NRTBL-922,AVON II Reception Table - Q,44.0,57.5,28.0,400.0,750.0
+HUI-SYCHR-254,JANUS Styling Chair,25.0,28.0,26.0,84.0,228.0
+00-JAT-CVR-400,VERONA Manicure Table - Gel Dryer Cover,0.625,20.5,5.5,2.0,10.0
+00-JAT-CVR-500,VERONA Double and Triple Manicure Table - Gel Dryer Cover,0.625,21.75,5.5,2.0,10.0
+00-DON-BS-31905,LINCOLN Barber Chair Base,5.5,27.5,27.5,22.0,45.0
+JAT-NPORK-9501-A,VERONA Polish Rack Axis - Rack,54.5,50.0,18.5,147.0,250.0
+HAI-TCSTL-637-CRM,ALICE Technician Stool (Cream),11.0,21.0,21.0,18.0,48.0
+HAI-TCSTL-10612-CRM,UMI Technician Stool (Cream),14.0,21.0,22.0,17.0,50.0
+HAI-CUCHR-11804-CPO,VERSA Customer Chair (Cappuccino),26.0,28.0,15.0,40.0,88.0
+DON-FCCHR-215001-A-BLK,PARKER Facial Bed with stool - Top (Black),26.0,33.0,16.0,63.0,100.0
+DON-FCCHR-215001-B-BLK,PARKER Facial Bed with stool - Bottom (Black),21.0,33.0,9.0,61.0,100.0
+DON-FCCHR-215001-A-WH,PARKER Facial Bed with stool - Top (White),26.0,33.0,16.0,63.0,100.0
+DON-FCCHR-215001-B-WH,PARKER Facial Bed with stool - Bottom (White),21.0,33.0,9.0,61.0,100.0
+MarketPlace P&H Fees,Marketplace - Process and handling fees,0.0,0.0,0.0,0.0,10.0
+JAT-NPORK-9501-B,VERONA Polish Rack Axis - Drawer,15.5,50.0,19.0,127.0,450.0
+JAT-NRTBL-844,AVON II Reception Table,40.0,51.0,22.0,300.0,700.0
+BAO-TUB-033-WH,FLORENCE Pedicure Tub - Raw Base (White) without Glass Bowl,260.0,550.0,200.0,800.0,400.0
+HUI-BWSH-253-B,DRAPER Backwash Unit - Bowl,14.0,24.0,22.0,43.0,100.0
+HAI-TCSTL-10412-BG,TOTO Technician Stool (Burgundy),21.0,26.0,12.0,15.0,55.0
+JAT-NTBL-411-A,AVON I Manicure Table - Bases,25.0,19.5,16.0,67.0,175.0
+HUI-BWSH-254-B,JANUS Backwash Unit - Bowl,14.0,24.0,22.0,42.0,100.0
+HUI-BWSH-260-B,ALTON Backwash Unit - Bowl,14.0,24.0,22.0,42.0,100.0
+00-KAN-TCHRARM-77-LT,SHIATSULOGIC - 77 Armrest Light Color,9.0,15.0,26.5,28.0,105.0
+JAT-NTBL-411-B,AVON I Manicure Table - Table Top,7.5,40.5,18.5,85.0,100.0
+00-KAN-TCHRARM-77-DRK,SHIATSULOGIC - 77 Armrest Dark Color,9.0,15.0,26.5,28.0,105.0
+KAN-TCHR-7703-CPOCA,SHIATSULOGIC PI Massage Chair,21.0,42.0,30.0,145.0,495.0
+KAN-TCHR-7703-CPORD,SHIATSULOGIC PI Massage Chair,21.0,42.0,30.0,145.0,495.0
+KAN-TCHRCVR-16-CFE,SHIATSULOGIC - Vibration Cover set (Coffee),12.0,44.0,25.0,27.0,120.0
+KAN-TCHR-7703-CPO,SHIATSULOGIC PI Massage Chair,21.0,42.0,30.0,145.0,495.0
+JAT-NTBL-422-A,AVON II Manicure Table - Bases,25.0,19.5,16.0,67.0,175.0
+JAT-NTBL-422-B,AVON II Manicure Table - Table Top,7.5,40.5,18.5,85.0,100.0
+KAN-TCHR-7703-CA,SHIATSULOGIC PI Massage Chair,21.0,42.0,30.0,145.0,495.0
+JUN-KGJR-035,KEEN Glass Jar - 37oz,12.0,5.0,5.0,3.0,7.0
+JUN-KGJR-025,KEEN Glass Jar - 21oz,9.0,5.0,5.0,2.0,5.75
+KAN-TCHRCVR-16-CPO,SHIATSULOGIC - Vibration Cover set (Cappuccino),12.0,44.0,25.0,27.0,120.0
+00-DON-BS-5679,Styling Chair Base,0.0,0.0,0.0,15.5,28.0
+DON-APCHR-6769,TRON All Purpose Chair,25.0,27.0,25.0,65.0,146.0
+DON-BWSH-2002-BLK,TUCSON Backwash Shampoo Unit,29.0,50.0,28.0,107.0,254.0
+DON-FCCHR-216-BLK,MOLY Facial Bed (Black),26.0,46.0,18.0,88.0,146.0
+DON-SYCHR-1801 - Inactive,PRESTON Styling Chair,17.0,25.0,25.0,63.0,106.0
+Fulfillment Test,Kid Spa,0.0,0.0,0.0,0.0,1000.0
+KEL-SYSTL-101-ESP,Deluxe Styling Station (Espresso),0.0,0.0,0.0,400.0,773.0
+KEL-SYSTL-5555-BLK,POSH Portable Styling Station (Black),21.0,35.0,21.0,115.0,377.0
+KEL-SYSTL-5555-DRKCHY,POSH Portable Styling Station (Dark Cherry),21.0,35.0,21.0,115.0,377.0
+KEL-SYSTL-810366-DRKCHY,SYMPHONY Styling Station (Dark Cherry),21.0,42.0,30.0,200.0,666.0
+KEL-SYSTL-810366-ESP,SYMPHONY Styling Station (Espresso),21.0,42.0,30.0,200.0,666.0
+KEL-SYSTL-7002-ESP,ELEGANCE Styling Station - Station (Espresso),0.0,0.0,0.0,200.0,622.0
+KEL-SYSTL-7002-DRKCHY,ELEGANCE Styling Station - Station (Dark Cherry),0.0,0.0,0.0,200.0,622.0
+KEL-SYSTL-1102-BLK,ECONOMIC Styling Station Combo (Black),0.0,0.0,0.0,115.0,266.0
+KEL-SYSTL-1102-ESP,ECONOMIC Styling Station Combo (Espresso),0.0,0.0,0.0,115.0,266.0
+KEL-SYCHR-1169-BLK,Saloon Styling Chair (Black),28.0,25.0,32.0,260.0,322.0
+KEL-SYCHR-1169-WH,Saloon Styling Chair (White),28.0,25.0,32.0,260.0,322.0
+KEL-BBCHR-2097-BLK,BARREL Barber Chair (Black),29.0,43.0,35.0,300.0,599.0
+KEL-BBCHR-2095-BLK,PARLOR Barber Chair (Black),32.0,45.0,32.0,330.0,645.0
+KEL-BBCHR-2095-BR,PARLOR Barber Chair (Brown),32.0,45.0,32.0,330.0,645.0
+KEL-BBCHR-2095-GY,PARLOR Barber Chair (Grey),32.0,45.0,32.0,330.0,645.0

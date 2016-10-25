@@ -1,0 +1,1 @@
+C:\bitnamiwamp\php\php.exe -f C:\bitnamiwamp\apache2\htdocs\scripts\cleanupFtpSC.php

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>.org.eclipse.dltk.core.external.folders</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.link11</name>
+			<type>2</type>
+			<location>C:/Program Files/Zend/Zend Studio 13.5.1/plugins/com.zend.php.ibmitoolkit_13.5.1.v20160705-1334/resources/ToolkitApi</location>
+		</link>
+		<link>
+			<name>.link12</name>
+			<type>2</type>
+			<location>C:/wamp/www/.metadata/.plugins/org.zend.php.framework/org.zend.php.framework.v2.CONTAINER</location>
+		</link>
+		<link>
+			<name>.link14</name>
+			<type>2</type>
+			<location>C:/wamp/www/.metadata/.plugins/org.zend.php.framework.resource/resources/ZendFramework-1/library</location>
+		</link>
+		<link>
+			<name>.link3</name>
+			<type>2</type>
+			<location>C:/wamp/www/.metadata/.plugins/org.eclipse.php.core/__language__/b5d47d88</location>
+		</link>
+		<link>
+			<name>.link4</name>
+			<type>2</type>
+			<location>C:/wamp/www/.metadata/.plugins/com.zend.php.core/__language__/b2eec222</location>
+		</link>
+		<link>
+			<name>.link5</name>
+			<type>2</type>
+			<location>C:/wamp/www/.metadata/.plugins/com.zend.php.core/__language__/e76f1c17</location>
+		</link>
+		<link>
+			<name>.link7</name>
+			<type>2</type>
+			<location>C:/Program Files/Zend/Zend Studio 13.5.1/plugins/com.zend.php.phpunit_13.5.1.v20160705-1334/resources/vendor/phpunit</location>
+		</link>
+		<link>
+			<name>.link9</name>
+			<type>2</type>
+			<location>C:/Program Files/Zend/Zend Studio 13.5.1/plugins/com.zend.php.phpunit_13.5.1.v20160705-1334/resources/phpunit4x/phpunit</location>
+		</link>
+	</linkedResources>
+</projectDescription>

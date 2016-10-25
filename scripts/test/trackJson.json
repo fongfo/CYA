@@ -1,0 +1,20 @@
+{
+    "UPSSecurity": {
+        "UsernameToken": {
+            "Username": "deanchou",
+            "Password": "Anderson9729266488"
+        },
+        "ServiceAccessToken": {
+            "AccessLicenseNumber": "5D16906D343745DE"
+        }
+    },
+    "TrackRequest": {
+        "Request": {
+            "RequestOption": "1",
+            "TransactionReference": {
+                "CustomerContext": "This is a test of the Track API"
+            }
+        },
+        "InquiryNumber": "1Z2Y263A9099970604"
+    }
+}
